@@ -1,7 +1,7 @@
 Reverse-String
 ==============
 
-This is a small program that allows you to input any set of letter, and it will print the reverse order. In the code that I have complied, I have added a few additions that are not necessary for the program to run. First, I have only allowed 5 attempts before the program quits. The line that controls this is: if(j==5){. It can easily be altered by changing the value of j to whatever you wish.
+This is a small program that allows you to input any set of letter, and it will print the reverse order. In the code that I have complied, I have added a few additions that are not necessary for the program to run. Remember, if the code does not work, you might be forgetting to add your package name that you declare at the beginning f the code. First, I have only allowed 5 attempts before the program quits. The line that controls this is: if(j==5){. It can easily be altered by changing the value of j to whatever you wish.
 
 Secondly, if "quit" is entered in the code, then the program will automatically break. The line that controls this is: if (input.equals("Quit")|| input.equals("quit")){. To add your own words, just change the words that are in quotation marks. 
 
